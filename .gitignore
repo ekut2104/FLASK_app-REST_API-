@@ -1,3 +1,17 @@
 .idea/
 README.md
 env_flask/
+Flaskapp_CarDataBase/app_carDB/__pycache__/
+Flaskapp_CarDataBase/app_carDB/dictDB/__pycache__/
+
+
+
+
+Flaskapp_CarDB_ORM/Cars_application/api/__pycache__/
+Flaskapp_CarDB_ORM/Cars_application/cars/__pycache__/
+Flaskapp_CarDB_ORM/Cars_application/db/__pycache__/
+Flaskapp_CarDB_ORM/Cars_application/errors/__pycache__/
+Flaskapp_CarDB_ORM/Cars_application/keyspaces/__pycache__/
+Flaskapp_CarDataBase/app_carDB/__pycache__/
+Flaskapp_CarDataBase/app_carDB/dictDB/__pycache__/
+Flaskapp_CarDataBase/app_carDB/ourblueprint/__pycache__/
